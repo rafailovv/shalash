@@ -276,6 +276,10 @@ body {
 	transform: rotateY(180deg);
 }
 
+.highlight {
+	width: 550px;
+	height: 550px;
+}
 
 /* scroll-3 */
 

@@ -212,6 +212,9 @@
     .photos-in :last-child {
         display: none;
     }
+    .highlight {
+        display: none;
+    }
 }
 
 @media screen and (max-width:585px) {
