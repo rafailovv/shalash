@@ -1,0 +1,345 @@
+@media screen and (max-width:1500px) {
+    .nav,
+    .prevue-in,
+    .cht-shalash-in,
+    .comp-in,
+    .three-blocks,
+    .text-card {
+        width: 80%;
+    }
+    .nashi-h1 {
+        padding-top: 50px;
+    }
+}
+
+@media screen and (max-width: 1810px) {
+    .images {
+        width: 350px;
+    }
+}
+
+@media screen and (max-width: 1700px) {
+    .block {
+        width: 370px;
+    }
+}
+
+@media screen and (max-width:1100px) {
+    .ul-nav {
+        margin-right: 0;
+    }
+    .ul-nav-li {
+        margin-right: 30px;
+    }
+    .ul-li-a {
+        font-size: 16px;
+    }
+    .cht-h1 {
+        font-size: 32px;
+    }
+    .cht-p {
+        font-size: 18px;
+    }
+    .c-text {
+        font-size: 14px;
+    }
+    .adress {
+        font-size: 24px;
+    }
+    .cont-txt {
+        font-size: 18px;
+    }
+    .block {
+        width: 300px;
+    }
+    .price-hh1 {
+        padding-top: 50px;
+    }
+    .three-blocks {
+        padding-top: 65px;
+    }
+    .price {
+        height: auto;
+    }
+    .price-h1 {
+        font-size: 24px;
+    }
+    .price-14px {
+        font-size: 14px;
+    }
+    .price-tsena {
+        font-size: 39px;
+    }
+    .budni {
+        font-size: 16px;
+    }
+    .lh-25 {
+        line-height: 21px;
+        font-size: 16px;
+    }
+    .n-t-a {
+        font-size: 18px;
+    }
+    .mr-20 {
+        margin-right: 1em;
+    }
+}
+
+@media screen and (max-width:1260px) {
+    .card-s {
+        width: 550px;
+        height: 390px;
+    }
+}
+
+@media screen and (max-width:1080px) {
+    .text-card {
+        flex-direction: column;
+    }
+    .card-s {
+        width: 100%;
+        height: 500px;
+    }
+    .adress {
+        font-size: 21px;
+    }
+}
+
+@media screen and (max-width:950px) {
+    .cht-shalash-in {
+        flex-direction: column;
+    }
+    .cht-shalash {
+        height: auto;
+    }
+    .iframeVideo {
+        width: 600px;
+        margin-top: 100px;
+        margin-left: -20px;
+    }
+    .loader {
+        background-size: 40% 100%;
+    }
+}
+
+@media screen and (max-width:780px) {
+    .price {
+        height: auto;
+    }
+    .three-blocks {
+        flex-direction: column;
+    }
+    .block {
+        width: 360px;
+        margin-top: 10px;
+    }
+    .cht-shalash {
+        height: auto;
+    }
+    .price-h1 {
+        font-size: 22px;
+        color: black;
+        font-weight: bold;
+    }
+    .price-hh1 {
+        color: white;
+        font-size: 42px;
+        text-align: center;
+        padding-top: 90px;
+    }
+    .price-14px {
+        font-size: 14px;
+        line-height: 3;
+    }
+    .price-tsena {
+        font-size: 42px;
+        font-weight: bold;
+    }
+    .budni {
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .lh-25 {
+        line-height: 25px;
+    }
+    .nav,
+    .prevue-in,
+    .cht-shalash-in,
+    .comp-in,
+    .three-blocks,
+    .text-card {
+        width: 90%;
+    }
+    .contacts {
+        height: auto;
+    }
+    .header {
+        display: none;
+    }
+    .mob-nav {
+        display: flex;
+    }
+    .card-s {
+        height: 350px;
+    }
+    .ccc {
+        width: 80px;
+        height: 80px;
+    }
+    .c-span {
+        font-size: 14px;
+    }
+    .c-text {
+        font-size: 12px;
+    }
+    .comp-in-in {
+        height: 270px;
+    }
+}
+
+@media screen and (max-width:680px) {
+    .iframeVideo {
+        width: 400px;
+    }
+    .prem-wrap {
+        width: auto;
+    }
+    .loader {
+        background-size: 60% 100%;
+        font-size: 40px;
+    }
+    .photos-in :last-child {
+        display: none;
+    }
+}
+
+@media screen and (max-width:585px) {
+    .ccc {
+        width: 200px;
+        height: 200px;
+    }
+    .c-span {
+        font-size: 18px;
+    }
+    .c-text {
+        font-size: 17px;
+    }
+    .comp-in-in {
+        height: auto;
+        margin: 10px 0;
+    }
+    .comp-in {
+        flex-direction: column;
+    }
+    .prev-h1 {
+        font-size: 42px;
+    }
+    .prev-p {
+        font-size: 19px;
+    }
+    .nashi-h1,
+    .comp-h1,
+    .price-hh1 {
+        font-size: 32px;
+    }
+    .prem-num {
+        width: 24px;
+        height: 24px;
+        font-size: 15px;
+    }
+    .p-prem-text-top {
+        font-size: 15px;
+    }
+    .p-prem-text-bottom {
+        font-size: 12.5px;
+    }
+    .nashi-btn {
+        padding: 15px 28px;
+        letter-spacing: .4px;
+        font-size: 14px;
+    }
+    .prem-wrap {
+        margin: 50px 0 50px 25px;
+    }
+}
+
+@media screen and (max-width:540px) {
+    .prev-h1 {
+        font-size: 30px;
+    }
+    .prev-p {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width:450px) {
+    .iframeVideo {
+        display: none;
+    }
+    .prem-wrap {
+        margin-left: 10px;
+    }
+    .p-prem-text {
+        margin-left: 15px;
+    }
+    .nashi-h1,
+    .price-hh1,
+    .prev-h1 {
+        font-size: 25px;
+    }
+    .p-prem-text-bottom {
+        font-size: 11.5px;
+    }
+    .p-prem-text-top {
+        font-size: 13px;
+    }
+    .prem-num {
+        width: 19px;
+        height: 19px;
+        font-size: 12px;
+    }
+    .prev-p {
+        font-size: 13px;
+        margin-top: -20px;
+        line-height: 24px;
+    }
+    .prev-btn {
+        font-size: 15px;
+    } 
+    .toTop {
+        width: 40px;
+        height: 40px;
+        bottom: 15px;
+        right: 20px;
+    }
+    .toTop span {
+        height: 23px;
+    }
+    .toTop span::before,
+    .toTop span::after {
+        height: 14px;
+        margin-left: -1px;
+        margin-top: -5.5px;
+    }
+    .toTop span {
+        margin-top: -11.5px;
+    }
+    .toTop span::after {
+        transform: translateX(6px) rotateZ(-45deg);
+    }
+    .toTop span::before {
+        transform: translateX(-6px) rotateZ(45deg);
+    }
+}
+
+@media screen and (max-width:400px) {
+    .block {
+        width: 310px;
+    }
+    .loader {
+        background-size: 100% 100%;
+    }
+    .images {
+        width: 300px;
+    }
+}
